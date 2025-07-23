@@ -17,4 +17,5 @@ This project visualizes and analyzes weekly sales data across 45 Walmart stores.
 - Slight inverse correlation between fuel price and sales
 
 - 📷 Dashboard Preview:
-  
+- https://github.com/tanush0304/Walmart-Sales-Dashboard-Power-BI-/blob/main/page1.png
+- https://github.com/tanush0304/Walmart-Sales-Dashboard-Power-BI-/blob/main/page2.png
